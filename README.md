@@ -20,7 +20,7 @@ realtime.
 - Realtime search 
 - Beautiful UI
 # Screenshots
-![](./book-search.png)
 ![](https://static.notion-static.com/1d711af6-53c4-4594-b330-b7c6d3a15d06/Screen_Shot.jpg)
+![](./book-search.png)
 
 Credits : [Tutorial](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
